@@ -2,13 +2,26 @@
   "name": "videodisplay",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:8080",
   "dependencies": {
+    "@progress/kendo-react-dropdowns": "^3.15.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.1.1",
+    "list-react-files": "^0.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-dropdown": "^1.7.0",
+    "react-image": "^4.0.2",
+    "react-multi-select-component": "^3.0.1",
+    "react-native": "^0.63.0",
+    "react-scripts": "3.4.1",
+    "react-select": "^3.1.0",
+    "react-simple-image-slider": "^1.0.4",
+    "redux": "^4.0.5",
+    "video-react": "^0.14.1"
   },
   "scripts": {
     "start": "react-scripts start",
